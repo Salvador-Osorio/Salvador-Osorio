@@ -4,6 +4,8 @@
 
 **SOA · AI Systems · Evidence Architecture · Decision Systems**
 
+**Psychiatrist · Political Scientist · Systems Strategist**
+
 Designing systems that preserve context, provenance, uncertainty, and human adjudication.
 
 [SOAiaCore](https://soaiacore.com) · [Canonical technical repository](https://github.com/SOAIACORE-Corporation/Salvadorosorio-png-soai-policy)
@@ -19,6 +21,25 @@ I am **Salvador Osorio**.
 **SOA** is an authored and social signature used in specific contexts. It is not a separate technical system or an autonomous entity.
 
 **SOAiaCore** is the architecture and technical program I am developing. It is distinct from SOA and from the human subject behind the work.
+
+## Professional experience
+
+My work combines three complementary domains:
+
+- **Psychiatry and human cognition** — applied interest in emotion, cognition, behavior, mental representations, and human–AI interaction.
+- **Political and institutional analysis** — analysis of power, governance, legitimacy, organizations, collective behavior, and strategic communication.
+- **Technical systems architecture** — design of AI systems that connect evidence, memory, interpretation, decision, cloud infrastructure, and operational controls.
+
+In practice, I design and evaluate:
+
+- policy-driven AI workflows with explicit authority boundaries;
+- evidence, provenance, contradiction, and adjudication models;
+- context and memory systems that preserve temporal and project scope;
+- decision systems that distinguish proposal, approval, execution, validation, and receipt;
+- cloud and application architectures using Python, FastAPI, PostgreSQL, Terraform, Azure, OCI, GitHub Actions, and controlled provider interfaces;
+- evaluation and safety gates for LLM-enabled systems, including fail-closed behavior and human authorization for material effects.
+
+My contribution is not limited to implementing software. It is the integration of **human judgment, institutional logic, technical structure, and operational evidence** into systems that can be inspected, challenged, and improved.
 
 ## SOAiaCore
 
