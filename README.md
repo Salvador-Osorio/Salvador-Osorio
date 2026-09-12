@@ -4,9 +4,9 @@
 
 **SOA · AI Systems · Evidence Architecture · Decision Systems**
 
-Working on systems that preserve context, provenance, uncertainty, and human adjudication.
+Designing systems that preserve context, provenance, uncertainty, and human adjudication.
 
-[SOAiaCore](https://soaiacore.com)
+[SOAiaCore](https://soaiacore.com) · [Canonical technical repository](https://github.com/SOAIACORE-Corporation/Salvadorosorio-png-soai-policy)
 
 </div>
 
@@ -16,101 +16,93 @@ Working on systems that preserve context, provenance, uncertainty, and human adj
 
 I am **Salvador Osorio**.
 
-**SOA** is an authored and social signature I use in specific contexts. It is not a separate technical system or entity.
+**SOA** is an authored and social signature used in specific contexts. It is not a separate technical system or an autonomous entity.
 
 **SOAiaCore** is the architecture and technical program I am developing. It is distinct from SOA and from the human subject behind the work.
 
----
-
 ## SOAiaCore
 
-SOAiaCore is an architecture for preserving and revisiting continuity between **experience, memory, interpretation, and decision**.
+SOAiaCore addresses a practical problem: how to preserve continuity between evidence, memory, interpretation, and decision across long-running human and technical work.
 
-Its governing principle is simple:
+Its governing principle is:
 
-> **The signal can travel; authority stays human.**
+> The signal can travel; authority stays human.
 
-A conceptual decision flow is:
+The system is organized around two complementary flows:
 
-```text
-EVIDENCE → CONTRADICTION → ADJUDICATION → RECEIPT
-```
+- EVIDENCE → CONTRADICTION → ADJUDICATION → RECEIPT
+- CONTEXT → SYNC → PRECHECK → EXECUTE → VALIDATE → RECEIPT
 
-Its operating protocol is:
+The objective is not to anthropomorphize software or to replace judgment with automation. The objective is to make context, uncertainty, provenance, controls, and decisions inspectable over time.
 
-```text
-CONTEXT → SYNC → PRECHECK → EXECUTE → VALIDATE → RECEIPT
-```
+## Current technical program
 
-The purpose is not to anthropomorphize software or present methodology as authority. Evidence, automation, and controls are designed to improve traceability while preserving human adjudication.
+The public SOAiaCore repository contains a substantive policy and runtime monorepo covering:
 
----
+- Python runtime packages, FastAPI services, web and worker applications;
+- PostgreSQL migrations and project-scoped bitemporal persistence;
+- canonical memory, episodic memory, operational state, and DecisionOS;
+- evidence, claims, lineage, contradiction, and admission contracts;
+- provider-neutral cognitive invocation and evaluation boundaries;
+- R0–R3 safety and authorization classes;
+- Terraform and Azure private-connectivity infrastructure;
+- OCI image publication, immutable deployment references, static gates, acceptance tests, and dated receipts.
 
-## Evidence States
+The current implementation is intentionally staged. R0/R1 validation is substantially represented in code and CI. A2/R2 material actions and real external-provider execution remain separately governed and must be supported by exact operational evidence.
 
-Public technical claims are classified by the evidence that supports them:
+## Evidence discipline
+
+Public claims are classified according to their support:
 
 | State | Meaning |
-|---|---|
-| **VERIFIED** | Supported by visible implementation and reproducible validation evidence. |
-| **SPECIFIED** | Formally documented architecture, interface, or behavior not yet established as verified runtime. |
-| **EXPERIMENTAL** | Active prototype, branch, proof of concept, or preliminary implementation. |
-| **VISION** | Research direction, conceptual thesis, or longer-term system objective. |
+| --- | --- |
+| VERIFIED | Visible implementation plus reproducible validation evidence. |
+| SPECIFIED | Formal architecture or contract not yet established as live runtime. |
+| CONDITIONAL | Dependent on an unresolved authority, operational, recovery, or production gate. |
+| EXPERIMENTAL | Active prototype, branch, bounded harness, or evaluation path. |
+| VISION | Research direction or longer-term objective. |
 
-**Rule:** a claim should not exceed the evidence available to support it.
+The methodological rule is:
 
----
-
-## Current Technical Surface
-
-Current work spans:
-
-- Python, PowerShell, Bash, SQL, HCL, YAML, and JSON
-- FastAPI and service-oriented application patterns
-- Terraform and Infrastructure as Code
-- Docker / OCI containers
-- PostgreSQL and structured evidence stores
-- Microsoft Azure and controlled cloud evaluation patterns
-- Git and GitHub governance
-- LLM orchestration, evaluation, and evidence-aware workflows
-- provenance, validation gates, and execution receipts
-
-Specific runtime states belong in project repositories and validation receipts rather than in profile copy.
-
----
-
-## Working Method
-
-```text
 DOCUMENTED FACT ≠ INFERENCE ≠ HYPOTHESIS
-```
 
-The distinction is methodological, not ontological: human experience and judgment do not become false because they are not machine-audited. The role of the system is to preserve evidence, context, contradiction, and decision history without displacing human authority.
+Human experience and judgment do not become less real because they are not machine-audited. The system exists to preserve distinctions and support better adjudication, not to manufacture certainty.
 
----
+## Working method
 
-## Public Repository Policy
+I work at the intersection of:
 
-This profile repository is a public identity surface, not the canonical runtime repository for SOAiaCore.
+- cognitive and emotional systems;
+- psychiatry applied to AI;
+- political and institutional analysis;
+- narrative and symbolic architecture;
+- technical governance and evidence systems;
+- AI evaluation, orchestration, and decision design.
 
-Historical material may be retained for provenance, but it should be clearly marked as **historical / non-canonical** when it no longer represents current implementation state.
+The common task is to translate complexity into:
 
-Architecture, runtime status, experiments, and operational evidence should be separated according to their actual evidence state.
+INFORMATION → DIAGNOSIS → CRITERION → DECISION → ACTION
 
----
+## Public repository policy
 
-## Current Focus
+This profile repository is a public identity surface, not the canonical runtime repository.
 
-- **SOAiaCore** — continuity across evidence, memory, interpretation, and decision
-- **Evidence architecture** — turning heterogeneous information into inspectable analytical material
-- **Decision systems** — preserving human adjudication inside automated workflows
-- **Context integrity** — maintaining traceability across long-running technical and analytical work
+The canonical technical work is maintained in [SOAIACORE-Corporation/Salvadorosorio-png-soai-policy](https://github.com/SOAIACORE-Corporation/Salvadorosorio-png-soai-policy).
 
----
+Historical material may be retained for provenance, but it is labeled historical or non-canonical when it no longer represents current implementation state. Runtime claims belong in project code, contracts, workflows, and dated receipts—not in profile copy alone.
+
+## Current focus
+
+- SOAiaCore: continuity across evidence, memory, interpretation, and decision.
+- Evidence architecture: turning heterogeneous information into inspectable analytical material.
+- Decision systems: preserving human adjudication inside controlled automation.
+- Context integrity: maintaining traceability across long-running technical and analytical work.
+- Responsible AI systems: separating capability, authority, execution, and evidence.
 
 ## Contact
 
-**Website:** [soaiacore.com](https://soaiacore.com)
+- Website: [soaiacore.com](https://soaiacore.com)
+- Technical program: [SOAIACORE-Corporation](https://github.com/SOAIACORE-Corporation)
 
 ---
 
